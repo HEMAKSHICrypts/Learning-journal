@@ -29,4 +29,4 @@
 - ifconfig / ip a – Network interfaces
 -ping website-Test connection
 -netstat-tulnp-show active ports
--ss-Itn-check listening portss
+-ss-Itn-check listening ports
