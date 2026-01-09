@@ -24,3 +24,35 @@ HTTPS encrypts data and is secure.
 
 ## 6. Firewall
 A firewall monitors and controls network traffic to protect systems from attacks.
+
+
+
+# Networking Basics 
+
+## 1. IP Address
+An IP address uniquely identifies a device on a network. It can be IPv4 or IPv6.
+
+## 2. Default Gateway
+The default gateway connects the local network to external networks like the internet.
+
+## 3. Ping Command
+Ping is used to test connectivity between two systems and measure network latency.
+
+## Commands Used
+- ip a
+- ip route
+- ping google.com
+
+
+## DNS Issue Observed
+Ping to google.com failed due to DNS resolution error.
+Error: Temporary failure in name resolution
+
+This indicates that IP connectivity was present but DNS was not configured properly.
+
+
+## Ping Test Result
+Ping to google.com was successful after DNS configuration.
+Packets were transmitted and received successfully with low latency.
+
+Ping command was terminated using CTRL + C.
