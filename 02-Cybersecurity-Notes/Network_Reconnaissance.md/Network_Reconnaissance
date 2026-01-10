@@ -1,0 +1,36 @@
+# Network Reconnaissance
+
+## What is Network Reconnaissance?
+Network reconnaissance is the process of gathering information about a target network
+before launching any attack or security assessment.
+
+## Types of Reconnaissance
+1. Passive Reconnaissance
+2. Active Reconnaissance
+
+### Passive Reconnaissance
+- No direct interaction with target
+- Uses public information
+- Examples:
+  - WHOIS lookup
+  - DNS records
+  - Google dorking
+
+### Active Reconnaissance
+- Direct interaction with target
+- May alert the target
+- Examples:
+  - Port scanning
+  - Ping sweeps
+  - Traceroute
+
+## Common Tools
+- Nmap
+- Netcat
+- Wireshark
+- Whois
+
+## Why Reconnaissance is Important
+- Identifies open ports and services
+- Helps in attack surface mapping
+- Reduces risk during penetration testing
