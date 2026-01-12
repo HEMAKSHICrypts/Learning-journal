@@ -37,3 +37,9 @@ Helps identify possible vulnerabilities
 4. Output Screenshot
 Add your terminal screenshot here.
 (Example: attach the output showing open ports like 22, 80, etc.)
+
+
+
+
+## Why Port Scanning is Important
+Port scanning helps identify open services that could be exploited by attackers or secured by defenders.
