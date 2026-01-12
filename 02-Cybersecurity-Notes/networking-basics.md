@@ -56,3 +56,9 @@ Ping to google.com was successful after DNS configuration.
 Packets were transmitted and received successfully with low latency.
 
 Ping command was terminated using CTRL + C.
+
+
+## Key Learnings
+- Understood how devices communicate over networks
+- Learned how DNS issues affect connectivity
+- Practiced real networking commands instead of theory
