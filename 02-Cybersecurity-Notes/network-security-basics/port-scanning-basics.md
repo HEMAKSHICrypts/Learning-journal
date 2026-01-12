@@ -39,7 +39,9 @@ Add your terminal screenshot here.
 (Example: attach the output showing open ports like 22, 80, etc.)
 
 
-
-
 ## Why Port Scanning is Important
 Port scanning helps identify open services that could be exploited by attackers or secured by defenders.
+
+## Red Team vs Blue Team View
+- Red Team uses port scanning to find attack surfaces.
+- Blue Team detects scans using IDS/Firewall logs.
