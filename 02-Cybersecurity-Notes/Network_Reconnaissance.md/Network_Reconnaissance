@@ -34,3 +34,8 @@ before launching any attack or security assessment.
 - Identifies open ports and services
 - Helps in attack surface mapping
 - Reduces risk during penetration testing
+
+## Screenshots
+
+Screenshots of reconnaissance commands executed on public domains
+are available in the `screenshots` folder.
