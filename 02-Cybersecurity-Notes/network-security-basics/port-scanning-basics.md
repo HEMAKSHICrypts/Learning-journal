@@ -45,3 +45,30 @@ Port scanning helps identify open services that could be exploited by attackers 
 ## Red Team vs Blue Team View
 - Red Team uses port scanning to find attack surfaces.
 - Blue Team detects scans using IDS/Firewall logs.
+
+# Nmap Port Scanning
+
+## Objective
+To identify open ports and running services using Nmap.
+
+## Tool Used
+- Nmap
+
+## Target
+- scanme.nmap.org (Official Nmap test target)
+
+## Commands Used
+
+### Basic Scan
+nmap scanme.nmap.org
+
+### Service Version Detection
+nmap -sV scanme.nmap.org
+
+### OS Detection
+sudo nmap -O scanme.nmap.org
+
+## Learning Outcome
+- Identified open ports
+- Understood service detection
+- Learned ethical scanning practices
