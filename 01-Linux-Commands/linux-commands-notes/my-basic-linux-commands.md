@@ -63,3 +63,12 @@ rm file.txt
 **Beginner mistake:**  
 Using `rm -r` without thinking.  
 This permanently deletes entire folders — no recycle bin, no recovery.
+
+mkdir cyber_permissions
+cd cyber_permissions
+touch file1.txt file2.txt
+ls -l
+chmod 644 file1.txt
+chmod 700 file2.txt
+ls -l
+whoami
