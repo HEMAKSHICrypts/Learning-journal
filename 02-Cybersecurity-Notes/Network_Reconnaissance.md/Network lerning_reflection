@@ -1,0 +1,10 @@
+## What I Learned
+- Difference between active and passive reconnaissance
+- How Nmap reveals open ports and services
+- Importance of reconnaissance in attack planning
+
+## Security Insight
+Unnecessary open ports increase attack surface and risk.
+
+## Next Improvement
+Learn advanced Nmap scripts (NSE).
