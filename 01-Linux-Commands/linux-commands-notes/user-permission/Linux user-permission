@@ -1,0 +1,28 @@
+## Linux User & Permission Security
+
+### What is a User in Linux?
+A user is an identity that can log in and perform actions on a Linux system.
+
+### Types of Users
+- Root User: Has full system access
+- Normal User: Limited permissions
+- System User: Used by services
+
+### What are Permissions?
+Permissions define who can:
+- Read (r)
+- Write (w)
+- Execute (x)
+
+### Permission Levels
+- Owner
+- Group
+- Others
+
+### Why Permissions Matter in Cybersecurity?
+- Prevents unauthorized access
+- Protects sensitive files
+- Limits damage during attacks
+
+### Command Used
+chmod – used to change file permissions
