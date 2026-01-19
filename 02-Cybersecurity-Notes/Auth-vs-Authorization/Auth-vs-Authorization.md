@@ -56,3 +56,5 @@ Authentication = Identity verification
 Authorization = Permission control
 Authentication always comes before Authorization
 Both are critical pillars of Cybersecurity
+
+Authentication plays a major rolr in Security aspects
