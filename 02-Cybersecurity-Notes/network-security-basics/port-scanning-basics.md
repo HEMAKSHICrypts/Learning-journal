@@ -72,3 +72,5 @@ sudo nmap -O scanme.nmap.org
 - Identified open ports
 - Understood service detection
 - Learned ethical scanning practices
+
+This Nmap plays a major role in Security aspectsS
