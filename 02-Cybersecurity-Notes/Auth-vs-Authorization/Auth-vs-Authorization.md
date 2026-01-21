@@ -58,3 +58,4 @@ Authentication always comes before Authorization
 Both are critical pillars of Cybersecurity
 
 Authentication plays a major rolr in Security aspects
+Authentication enhance security
