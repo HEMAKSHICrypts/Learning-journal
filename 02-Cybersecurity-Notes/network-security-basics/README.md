@@ -55,3 +55,5 @@ Learning these basics helps in identifying and preventing such vulnerabilities e
 - Privilege escalation concepts
 - Linux security hardening
 - Ethical hacking labs
+This repository documents my daily Linux and cybersecurity practice.
+Focus areas include permissions, auditing, and system security.
