@@ -62,3 +62,5 @@ Ping command was terminated using CTRL + C.
 - Understood how devices communicate over networks
 - Learned how DNS issues affect connectivity
 - Practiced real networking commands instead of theory
+- Gives needed info
+- This commands are case sensitive 
