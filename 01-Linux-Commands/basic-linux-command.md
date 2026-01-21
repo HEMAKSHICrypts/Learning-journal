@@ -30,3 +30,4 @@
 -ping website-Test connection
 -netstat-tulnp-show active ports
 -ss-Itn-check listening ports
+This commands helps in accesing some of the features need to us using networking commannds
