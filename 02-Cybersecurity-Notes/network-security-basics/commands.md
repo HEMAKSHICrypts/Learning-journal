@@ -18,3 +18,12 @@ chown user:group file
 
 nmap scanme.nmap.org
 sudo nmap scanme.nmap.org
+## Linux File Permissions
+
+- chmod 644 → Owner: read/write, Others: read
+- chmod 700 → Owner only (used for scripts/keys)
+- chown → Change ownership (critical in servers)
+- stat → View detailed file metadata
+
+Security Insight:
+Misconfigured permissions are a common cause of privilege escalation.
