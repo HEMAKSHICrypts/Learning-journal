@@ -77,5 +77,5 @@ Screenshots of Linux commands, tools, and projects are included in the repositor
 > "Learning,building and innovating turning cybersecurity curiosity into expertise and impact"
 
 
-"IN THE WAY OF SOLVING REAL WORLD PROBLEMS"
-"LEADIND TO BUILD SOMETHING IMPACTFUL"
+"IN THE WAY OF SOLVING REAL WORLD PROBLEMS   
+LEADIND TO BUILD SOMETHING IMPACTFUL"
