@@ -54,8 +54,7 @@ My goal is to pursue higher studies at **top universities abroad**  with a schol
 
 ## 🏆 Goals
 
-- Become a **cybersecurity expert** and build world-class projects  
-- Pursue **higher studies abroad** with scholarships  
+- Become a **cybersecurity expert** and build world-class projects    
 - Work on long-term project: **Quantum Security Vault**  
 - Become a **tech innovator and entrepreneur**  
 
@@ -77,5 +76,4 @@ Screenshots of Linux commands, tools, and projects are included in the repositor
 > "Learning,building and innovating turning cybersecurity curiosity into expertise and impact"
 
 
-"IN THE WAY OF SOLVING REAL WORLD PROBLEMS   
-LEADIND TO BUILD SOMETHING IMPACTFUL"
+" LEADIND TO BUILD SOMETHING IMPACTFUL ,IN THE WAY OF SOLVING REAL WORLD PROBLEMS  "
