@@ -68,7 +68,7 @@ Screenshots of Linux commands, tools, and projects are included in the repositor
 
 ## 📫 Connect
 
-- GitHub: [https://github.com/Hemakshi2108](https://github.com/Hemakshi2108)  
+- GitHub: [https://github.com/Hemakshi2108](https://github.com/HemakshiCrypts) 
  
 
 ---
